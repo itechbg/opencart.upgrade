@@ -3,4 +3,4 @@ Post upgrade script for Opencart 1x to 3x including Journal 2x to Journal 3x Blo
 How to use it:
 1. Download script
 2. Put it in root/ or admin/
-3. Run once and delete after. (https://yourstore.com/post_upgrade.php
+3. Run once and delete after. (example link https:// itech.bg/post_upgrade.php
